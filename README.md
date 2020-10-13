@@ -1,4 +1,4 @@
-# Leah's Keybaordio Atreus configuration
+# leah2's Keyboardio Atreus configuration
 
 These files are for Crysalis with default layers loaded.
 
